@@ -1,0 +1,4 @@
+﻿  test2.cpp
+d:\fas\2024발표\2. 랜섬웨어 제작\project2\project2\test2.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\fas\2024발표\2. 랜섬웨어 제작\project2\project2\test2.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project2.vcxproj -> D:\FaS\2024발표\2. 랜섬웨어 제작\Project2\Debug\Project2.exe
